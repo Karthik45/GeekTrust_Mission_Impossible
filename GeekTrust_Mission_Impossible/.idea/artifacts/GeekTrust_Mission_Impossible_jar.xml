@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="GeekTrust_Mission_Impossible:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GeekTrust_Mission_Impossible_jar</output-path>
+    <root id="root">
+      <element id="archive" name="GeekTrust_Mission_Impossible.jar">
+        <element id="module-output" name="GeekTrust_Mission_Impossible" />
+      </element>
+      <element id="library" level="project" name="Maven: org.testng:testng:7.4.0" />
+      <element id="library" level="project" name="Maven: com.beust:jcommander:1.78" />
+      <element id="library" level="project" name="Maven: org.webjars:jquery:3.5.1" />
+    </root>
+  </artifact>
+</component>
